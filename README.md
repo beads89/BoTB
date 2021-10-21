@@ -37,7 +37,7 @@ See it on [GitHub Pages](https://benjaminw1030.github.io/battle-of-the-bands/)
 
 * [MIT License](https://opensource.org/licenses/MIT)
 
-Copyright (c) 2021 Benjamin Wilson, Anna Clarke, Brandon Eads, Becket Harvey, Kody Green
+Copyright (c) 2021 Benjamin Wilson, Anna Clarke, Brandon Eads, Becket Harvey, Kody Gordon
 
 ## Contact Information
 
@@ -45,4 +45,4 @@ Anna Clarke: <anclarkie@gmail.com>
 Benjamin Wilson: <benjaminw1030@gmail.com>
 Brandon Eads: <brandon181989@hotmail.com>
 Becket Harvey: <www.linkedin.com/in/becket-harvey-sunshine>
-Kody Green: <gordon.km89@gmail.com>
+Kody Gordon: <gordon.km89@gmail.com>
